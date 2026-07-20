@@ -1,6 +1,6 @@
 ![/banner.png](/banner.png)
 
-# PUBLICATIONS.ORG
+# Publications And More...
 
 ## Badges:
 
