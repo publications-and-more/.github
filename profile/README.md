@@ -1,6 +1,6 @@
 ![/banner.png](/banner.png)
 
-# Publications And More...
+# Publications And More.
 
 ## Badges:
 
