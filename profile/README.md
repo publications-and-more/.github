@@ -1,6 +1,10 @@
 # Publications And More @ Ne.app
 
+This compiles and archives previous research projects et al from Ne.app.
+
 ## Badges:
+
+The following are the member badges of the organization:
 
 ### Amlal:
 
